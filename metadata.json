@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Natural F.M & Filhos - Centro Médico",
+  "description": "Portal empresarial e institucional da Clínica Natural F.M & Filhos e Centro Médico. Cuidados médicos especializados, análises laboratoriais e marcações online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
