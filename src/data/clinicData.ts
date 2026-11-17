@@ -94,8 +94,8 @@ export const CLINIC_INFO = {
       shortLabel: "Perto da Igreja Simão Toko",
       neighborhood: "Bairro Mpungu",
       reference: "Perto da Igreja Simão Toko",
-      coordinates: "R947+R4X, Soyo",
-      mapsUrl: "https://www.google.com/maps/search/?api=1&query=R947%2BR4X%2C+Soyo",
+      coordinates: "-6.192895, 12.362844",
+      mapsUrl: "https://www.google.com/maps/search/?api=1&query=-6.192895,12.362844",
       city: "Soyo",
       province: "Zaire",
       country: "Angola"

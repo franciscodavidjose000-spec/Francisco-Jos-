@@ -86,10 +86,10 @@ export const Footer: React.FC<FooterProps> = ({ onOpenBooking }) => {
               <div className="pt-2 border-t border-slate-800 space-y-1.5 text-[11px]">
                 <p className="text-slate-300 font-semibold flex items-start gap-1.5">
                   <MapPin className="w-3.5 h-3.5 text-teal-400 shrink-0 mt-0.5" />
-                  <span>Sede 1: B. 1 de Maio (Frente ao Aeroporto) · <span className="font-mono text-teal-400">V96C+JVP</span></span>
+                  <span>Sede 1: B. 1 de Maio (Frente ao Aeroporto) · <span className="font-mono text-teal-400">V96C+JVP, Soyo</span></span>
                 </p>
                 <p className="text-slate-300 font-semibold flex items-start gap-1.5 pl-5">
-                  <span>Sede 2: B. Mpungu (Perto da Igreja S. Toko) · <span className="font-mono text-teal-400">R947+R4X</span></span>
+                  <span>Sede 2: B. Mpungu (Perto da Igreja S. Toko) · <span className="font-mono text-teal-400">-6.192895, 12.362844</span></span>
                 </p>
                 <p className="text-slate-400 pl-5 text-[10px]">
                   Município do Soyo, Província do Zaire, Angola

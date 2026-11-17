@@ -192,7 +192,7 @@ export const ContactSection: React.FC = () => {
                     Sede Bairro Mpungu
                   </span>
                   <span className="text-[10px] font-mono text-teal-700 bg-teal-50 px-2 py-0.5 rounded border border-teal-100">
-                    R947+R4X, Soyo
+                    -6.192895, 12.362844
                   </span>
                 </div>
                 <p className="text-xs text-slate-600">
@@ -201,7 +201,7 @@ export const ContactSection: React.FC = () => {
                 <div className="pt-1 flex items-center justify-between">
                   <span className="text-[11px] text-slate-400">Atendimento Clínico & Triagem</span>
                   <a
-                    href="https://www.google.com/maps/search/?api=1&query=R947%2BR4X%2C+Soyo"
+                    href="https://www.google.com/maps/search/?api=1&query=-6.192895,12.362844"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs font-semibold text-teal-700 hover:text-teal-900 flex items-center gap-1 hover:underline"
